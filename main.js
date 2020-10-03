@@ -322,7 +322,17 @@ let contributers=[
         "github":"https://github.com/keerthika15K",
         "linkedin":"https://www.linkedin.com/in/keerthika-kadri-9ba2b9186/",
         "instagram":"https://www.instagram.com/kkadri7/"
-     }
+     },
+	{
+	"name":"Veena Alur",
+        "college":"SCEM",
+        "image":"images/veena.jpg",
+        "github":"https://github.com/veenaalur",
+        "linkedin":"https://www.linkedin.com/in/veena-alur-70017a184/",
+        "instagram":"https://www.instagram.com/alurveena/?hl=en"
+		
+	}
+	
  ]
 
 
