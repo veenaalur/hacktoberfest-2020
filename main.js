@@ -326,7 +326,7 @@ let contributers=[
 	{
 	"name":"Veena Alur",
         "college":"SCEM",
-        "image":"images/veena.jpg",
+        "image":"images/veenaalur.jpg",
         "github":"https://github.com/veenaalur",
         "linkedin":"https://www.linkedin.com/in/veena-alur-70017a184/",
         "instagram":"https://www.instagram.com/alurveena/?hl=en"
