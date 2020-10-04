@@ -369,7 +369,17 @@ let contributers=[
         "github":"https://github.com/rudhn2001",
         "linkedin":"",
         "instagram":"https://instagram.com/rudh_n2s"
-    }
+    },
+     {
+	"name":"Veena Alur",
+        "college":"SCEM",
+        "image":"images/veena.jpg",
+        "github":"https://github.com/veenaalur",
+        "linkedin":"https://www.linkedin.com/in/veena-alur-70017a184/",
+        "instagram":"https://instagram.com/alurveena"	
+		
+		
+	}
 
  ]
 
