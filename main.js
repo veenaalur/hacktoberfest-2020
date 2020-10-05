@@ -325,7 +325,7 @@ let contributers=[
      },
 	{
 	"name":"Veena Alur",
-        "college":"SCEM",
+        "college":"SCEM mangalore",
         "image":"images/veena.jpg",
         "github":"https://github.com/veenaalur",
         "linkedin":"https://www.linkedin.com/in/veena-alur-70017a184/",
